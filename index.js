@@ -1,5 +1,6 @@
 // write your code below!
 function happyHolidays() {
+<<<<<<< HEAD
   return "Happy holidays!";
 }
 
@@ -19,3 +20,7 @@ console.log(happyHolidays());
 console.log(happyHolidaysTo("Mike"));
 console.log(happyHolidayTo("Father's Day", "Bob"));
 console.log(holidayCountdown("Easter", 9));
+=======
+  return ""
+}
+>>>>>>> d0e2c63ef949704a0148819ec104b52f59d1a545
